@@ -1,0 +1,19 @@
+body {
+  background-color:blue;
+}
+h1{
+  color:lavender;
+  font-size: 200%
+  }
+p{
+  color:lavender;
+  font-size: 200%
+}
+h2{
+  color:red;
+  font-style: italic;
+  font-family: fantasy;
+}
+p{
+  font-family: sans-serif;
+}
