@@ -39,11 +39,11 @@ body {
 body{
   font-family:'Londrina Sketch', cursive;
 }
-
-
-
-
 img {
     width: 400px;
-    height: auto;
+    height: 300px;
+}
+p1{
+  size: 100%
+
 }
