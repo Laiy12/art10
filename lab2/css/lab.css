@@ -1,19 +1,49 @@
-body {
-  background-color:blue;
+#content {
+    padding: 30px;
+    background-color: white;
+    border: solid 1px #333333;
+    min-height: 80vh;
 }
+
+body {
+  background-color:#8CD3E8;
+  background-color:#;
+  padding: 20%
+  }
 h1{
-  color:lavender;
+  color: #98AFC0;
   font-size: 200%
   }
 p{
-  color:lavender;
+  color:#98AFC0;
   font-size: 200%
 }
 h2{
-  color:red;
+  color:#9B86C1;
   font-style: italic;
-  font-family: fantasy;
+  font-family: Helvetica, Verdana, Arial, "san serif"
 }
 p{
   font-family: sans-serif;
+}
+body{
+  display: block;
+    margin: 6px;
+}
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: #246B92;
+    padding: 15px;
+    font-size: 120%;
+}
+body{
+  font-family:'Londrina Sketch', cursive;
+}
+
+
+
+
+img {
+    width: 400px;
+    height: auto;
 }
