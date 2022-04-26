@@ -5,7 +5,7 @@
  **/
 
  // Define Variables//
- var myTransport = ['walking', 'bus', 'car']
+ var myTransport = ['walking', 'bus', 'zipcar']
 
 var myMainRide = {
   make:'Toyota',
@@ -17,6 +17,6 @@ var myMainRide = {
 
 
 // output//
-document.writeln("kinds of transport I use: ", myTransport + "</br>"");
+document.writeln("kinds of transport I use: " + myTransport + "</br>");
 document.writeln("My Main Ride: <pre>",
     JSON.stringify(myMainRide, null, '\t'), "</pre>");
