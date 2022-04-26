@@ -20,3 +20,4 @@
     document.writeln("color: " + color + "<br>");
     document.writeln("year: " + year + "<br>");
     document.writeln("Age: "+ age + "<br>");
+document.writln ("Age:" + age + "<br>");
