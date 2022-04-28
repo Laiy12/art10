@@ -18,5 +18,3 @@
 //output//
 document.writeln ("look! your word is now sorted:",
 SortWord(), "</br>");
-
-}
