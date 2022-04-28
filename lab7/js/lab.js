@@ -4,13 +4,15 @@
  * License: public Domain
  **/
  function SortchosenWord() {
-  var  Sortwords = window.prompt ("Hi please tell me a word");
-  console.log("cosenWord = ", chosenWord);
-  var nameArray = chosenWord.split('');
-  console.log("nameArray =", nameArray);
-  var nameArraySort = nameArray.sort();
-  console.log("nameArray =", wordsorted);
-  return wordsorted;
+   var chosenWord = window.prompt("Hey hey! write down any word you're thinking of in the prompt below for a surprise.");
+  console.log("chosenWord =", chosenWord);
+  var wordArray = chosenWord.split('');
+  console.log("wordArray =", wordArray);
+  var wordArraySort = wordArray.sort();
+  console.log("wordArraySort =", wordArraySort);
+  var wordSorted = wordArraySort.join('');
+  console.log("wordSorted =", wordSorted);
+
   }
 
 //output//
