@@ -19,5 +19,5 @@
 }
 
 //output//
-document.writeln ("look! your word is now sorted:",
-SortWord(), "</br>");
+document.writeln("look! your word is now sorted:",
+SortchosenWord(), "</br>");
