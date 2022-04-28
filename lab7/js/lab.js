@@ -3,7 +3,7 @@
  * Created:   04.27.2022
  * License: public Domain
  **/
- function SortchosenWord() {
+var SortchosenWord = function (){
    var chosenWord = window.prompt("Hey hey! Jot down any word you're thinking of in the prompt below for a surprise.");
     console.log("chosenWord =", chosenWord);
     // sort the string of letters into an array
