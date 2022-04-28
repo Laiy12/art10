@@ -12,7 +12,7 @@
   console.log("wordArraySort =", wordArraySort);
   var wordSorted = wordArraySort.join('');
   console.log("wordSorted =", wordSorted);
-
+  return wordSorted;
   }
 
 //output//
