@@ -19,5 +19,5 @@
 }
 
 //output//
-document.writeln("And your sorted word is....:",
+document.writeln("And your sorted word is....",
 SortchosenWord(), "</br>");
