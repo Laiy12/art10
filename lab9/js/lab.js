@@ -16,7 +16,7 @@
    var new1El = document.createElement("p");
 
    // Change the html attribute of new1El to say "something new.""
-   new1El.innerHTML = "Hello!!";
+   new1El.innerHTML = "something new";
 
 
    // Create a new element with document.createElement("p") and assign it to a variable new1El
@@ -24,7 +24,7 @@
 
 
    // Change the html attribute of new1El to say "something else.
-   new2El.innerHTML = "How are you?";
+   new2El.innerHTML = "something else"
 
    // Append both new elements one at a time using appendChild()
    outputEl.appendChild(new1El);
