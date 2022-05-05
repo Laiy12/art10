@@ -32,7 +32,7 @@
 
 // create new element for first position
   var new3El = document.createElement("p");
-  new3El.innerHTML = "Task X";
+  new3El.innerHTML = "Task X (print new element)";
 
 
 // add a new element to the top of an element
