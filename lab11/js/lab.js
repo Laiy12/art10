@@ -32,7 +32,7 @@ $("#r-button").click(function(){
 // change color of all button using the new button
 $(document).on('ready',function(){
 $('button').click(function() {
-   $('button').not($(this)).css('background', 'blue');
+   $('button').not($(this)).css('background', 'grey');
    $(this).css('background','none');
  });
 });
