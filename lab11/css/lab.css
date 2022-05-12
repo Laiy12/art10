@@ -1,6 +1,6 @@
 #content {
     padding: 30px;
-    background-color:Skyblue;
+    background-color:teal;
     border: solid 1px #33333;
     min-height: 80vh;
 }
@@ -48,4 +48,19 @@ p1{
   font-family:'Fantasy', Papyrus;
 
 
+}
+sectionbox {
+  border: solid 1px lavender;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.special {
+  background-color: Skyblue;
+  border: solid 1px lavender;
+}
+
+.#r-button{
+  color: white;
 }
