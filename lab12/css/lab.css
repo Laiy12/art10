@@ -60,3 +60,9 @@ sectionbox {
   background-color: black;
   border: solid 1px lavender;
 }
+
+
+.input-output {
+    border: solid 1px #eeb939;
+    padding: 10px 10px 30px;
+}
