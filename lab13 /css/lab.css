@@ -1,6 +1,6 @@
 #content {
     padding: 30px;
-    background-color:740001;
+    background-color:lavender;
     border: solid 1px #33333;
     min-height: 80vh;
 }
@@ -59,10 +59,4 @@ sectionbox {
 .special {
   background-color: black;
   border: solid 1px lavender;
-}
-
-
-.input-output {
-    border: solid 1px #eeb939;
-    padding: 10px 10px 30px;
 }
