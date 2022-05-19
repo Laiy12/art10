@@ -63,3 +63,54 @@ sectionbox {
 .input-output {
     columns: 17em
 }
+figure {
+    display: inline-block;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 80%;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.linkbox {
+    padding: 10px;
+    font-size: 80%;
+}
+.homelink {
+    text-align: left;
+}
+.sourcelink {
+    float: right;
+}
+
+#output {
+    /*font-size: 150%;
+    font-weight: bold;*/
+}
+
+.output {
+    border: solid 1px #333333;
+    padding: 10px 10px 30px;
+}
+
+.credits {
+    font-size: 60%;
+    color: gray;
+}
+.credits a {
+    text-decoration: inherit;
+    color: inherit;
+}
