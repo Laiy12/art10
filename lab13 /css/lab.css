@@ -60,3 +60,6 @@ sectionbox {
   background-color: black;
   border: solid 1px lavender;
 }
+.input-output {
+    columns: 17em
+}
