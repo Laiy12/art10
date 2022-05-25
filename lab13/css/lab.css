@@ -1,0 +1,57 @@
+#content {
+    padding: 30px;
+    background-color:lavender;
+    border: solid 1px #33333;
+    min-height: 80vh;
+}
+
+
+h1{
+  color: #eeba30;
+  font-size: 200%
+  }
+p{
+  color:black;
+  font-size: 150%
+}
+h2{
+  color:#eeb939;
+
+
+}
+p{
+  font-family:'Fantasy', Papyrus;
+}
+body{
+  display: block;
+    margin: 6px;
+}
+body {
+
+    background-color:white;
+    padding: 15px;
+    font-size: 120%;
+}
+body{
+  font-family:'Fantasy', Papyrus
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+p1{
+  size: 100%
+
+}
+.changed {
+  background-color: white;
+  font-family:'Fantasy', Papyrus;
+
+
+}
+sectionbox {
+  border: solid 1px lavender;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
