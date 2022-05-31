@@ -19,3 +19,5 @@ $.ajax({
   $("output").html("something");
 })
 }
+//Add a click event to the button
+$("button").click(getAjax);
